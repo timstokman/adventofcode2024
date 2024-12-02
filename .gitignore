@@ -1,4 +1,6 @@
 ### IntelliJ IDEA ###
+resources/*
+
 out/
 .idea
 !**/src/main/**/out/
